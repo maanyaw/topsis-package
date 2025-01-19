@@ -1,0 +1,34 @@
+Metadata-Version: 2.2
+Name: topsis-package
+Version: 0.1
+Summary: TOPSIS Decision Making Python Package
+Home-page: https://github.com/maanyaw/topsis-package
+Author: maanya
+Author-email: mwalia_be22@thapar.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: openpyxl
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+# TOPSIS Decision Making Python Package
+
+This Python package implements the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) decision-making method.
+
+## Installation
+
+To install the package, run:
+
+```bash
+pip install topsis-package
