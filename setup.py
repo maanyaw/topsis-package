@@ -3,12 +3,13 @@ from setuptools import setup, find_packages
 
 setup(
     name='topsis-package',
-    version='0.1',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=[
         'pandas',
         'numpy',
-        'openpyxl',  # Required to read Excel files
+        'openpyxl'
+        'twine',  # Required to read Excel files
     ],
     author='maanya',
     author_email='mwalia_be22@thapar.edu',

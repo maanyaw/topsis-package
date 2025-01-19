@@ -1,2 +1,11 @@
+
+### Step 5: Add `MANIFEST.in` File
+This file ensures that all necessary files are included in your package.
+
+```txt
+# MANIFEST.in
 include README.md
 include LICENSE
+
+
+

@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: topsis-package
-Version: 0.1
+Version: 0.1.1
 Summary: TOPSIS Decision Making Python Package
 Home-page: https://github.com/maanyaw/topsis-package
 Author: maanya
@@ -12,7 +12,7 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: openpyxl
+Requires-Dist: openpyxltwine
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier
